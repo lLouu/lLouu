@@ -20,6 +20,7 @@ I'm Guerric Le Bihan, a french student in computer science. I don't really know 
 
 | Name                      | Starting date | Deadline     | State       |
 | ------------------------- | ------------- | ------------ | ----------- |
+| Finite Automaton          | 4  Avr. 2021  | Someday soon | WIP         |
 | Projet Monique            | 9  Fev. 2021  | 25 May  2021 | WIP         |
 | Root Newton approximator  | 28 Mar. 2021  | None         | WIP         |
 | Custom Compression system | 6  Nov. 2020  | None         | Pause       |
