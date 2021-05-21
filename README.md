@@ -24,6 +24,7 @@ I'm Guerric Le Bihan, a french student in computer science. I don't really know 
 | Custom Compression system | 6  Nov. 2020  | None         | Pause          |
 | Latium Website            | None          | None         | Preparation    |
 | Latium Game Engine        | None          | None         | Preparation    |
+| Backup Shell              | None          | None         | Preparation    |
 | Projet Monique            | 9  Fev. 2021  | 25 May  2021 | Partially Done |
 | Huge Number Calculator    |               |              | Forfeit        |
 | sel de guerric            |               |              | Forfeit        |
