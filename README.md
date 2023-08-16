@@ -7,7 +7,7 @@ I'm Guerric Le Bihan, a french student in computer science at EFREI PARIS, speci
 ### Maintained
 | Name                                      | Starting date | Version |
 | ----------------------------------------- | ------------- | ------- |
-| [PenEnv](https://github.com/lLouu/penenv) | 28 Jul. 2023  | V0.1.4  |
+| [PenEnv](https://github.com/lLouu/penenv) | 28 Jul. 2023  | V0.2.1  |
 
 ### Working on
 | Name                                    | Starting date | Deadline     | State          |
