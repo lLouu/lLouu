@@ -26,7 +26,7 @@ I'm Guerric Le Bihan, a french student in computer science at EFREI PARIS, speci
 
 
 ## Accounts here and there
- - [Linkdin](https://www.linkedin.com/in/guerric-le-bihan-915844197/)
+ - [Linkdin](https://www.linkedin.com/in/guerric-le-bihan)
  - [Codingame](https://www.codingame.com/profile/98c9da903a5b276d4cbc503fbe5680da6636135)
 
 
