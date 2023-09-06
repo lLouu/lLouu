@@ -27,6 +27,7 @@ I'm Guerric Le Bihan, a french student in computer science at EFREI PARIS, speci
 
 ## Accounts here and there
  - [Linkdin](https://www.linkedin.com/in/guerric-le-bihan)
+ - [HackTheBox](https://app.hackthebox.com/profile/1426168)
  - [Codingame](https://www.codingame.com/profile/98c9da903a5b276d4cbc503fbe5680da6636135)
 
 
