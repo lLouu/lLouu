@@ -7,7 +7,7 @@ I'm Guerric Le Bihan, a french student in computer science at EFREI PARIS, speci
 ### Maintained
 | Name                                      | Starting date | Version |
 | ----------------------------------------- | ------------- | ------- |
-| [PenEnv](https://github.com/lLouu/penenv) | 28 Jul. 2023  | V0.2.1  |
+| [PenEnv](https://github.com/lLouu/penenv) | 28 Jul. 2023  | V0.2.6  |
 
 ### Working on
 | Name                                    | Starting date | Deadline     | State          |
@@ -24,6 +24,8 @@ I'm Guerric Le Bihan, a french student in computer science at EFREI PARIS, speci
 | [Cypherstock](https://github.com/lLouu/mastercamp-cypherstock-server)           | 2  Juin 2022  | V1.3.1  |
 | [Custom Compression system](https://github.com/lLouu/Custom-Compression-System) | 6  Nov. 2020  | V0.2.0  |
 
+### Backuped
+[Wappalyzer](https://github.com/lLouu/wappalyzer)
 
 ## Accounts here and there
  - [Linkdin](https://www.linkedin.com/in/guerric-le-bihan)
@@ -33,15 +35,15 @@ I'm Guerric Le Bihan, a french student in computer science at EFREI PARIS, speci
 
 ## Stuff I use
 ### Languages
-- C (main language)
-- C++
 - Python
 - Shell
 - Powershell
+- C / C++
+- C#
 - Web - html, css, js, php, WAMP
 - Batch
 - lua
-- Solidity (learning)
+- Solidity
 
 ### OS
 - Windows
@@ -54,7 +56,6 @@ I'm Guerric Le Bihan, a french student in computer science at EFREI PARIS, speci
 - Django
 - VueJS
 - .NET
-- OpenGL (learning)
 
 ### Toolbox
 - Visual Studio
