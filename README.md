@@ -2,12 +2,16 @@ Hi !
 
 I'm Guerric Le Bihan, a french student in computer science at EFREI PARIS, specialized in Cyber Security.
 
-## Code Projects
+<details>
+   <summary><b>↕️ Expand for more!</b></summary><br><br>
+
+<details>
+   <summary><b>💻 Code Projects</b></summary>
 
 ### Maintained
 | Name                                      | Starting date | Version |
 | ----------------------------------------- | ------------- | ------- |
-| [PenEnv](https://github.com/lLouu/penenv) | 28 Jul. 2023  | V0.2.6  |
+| [PenEnv](https://github.com/lLouu/penenv) | 28 Jul. 2023  | V0.2.8  |
 
 ### Working on
 | Name                                    | Starting date | Deadline     | State          |
@@ -25,43 +29,29 @@ I'm Guerric Le Bihan, a french student in computer science at EFREI PARIS, speci
 | [Custom Compression system](https://github.com/lLouu/Custom-Compression-System) | 6  Nov. 2020  | V0.2.0  |
 
 ### Backuped
-[Wappalyzer](https://github.com/lLouu/wappalyzer)
+- [Wappalyzer](https://github.com/lLouu/wappalyzer)
+- [Binary Bank](https://github.com/lLouu/binary-bank)
 
-## Accounts here and there
- - [Linkdin](https://www.linkedin.com/in/guerric-le-bihan)
- - [HackTheBox](https://app.hackthebox.com/profile/1426168)
- - [Codingame](https://www.codingame.com/profile/98c9da903a5b276d4cbc503fbe5680da6636135)
+</details>
+<details>
+   <summary><b>👤 Accounts here and there</b></summary>
+ 
+[Linkdin](https://www.linkedin.com/in/guerric-le-bihan)  |  [HackTheBox](https://app.hackthebox.com/profile/1426168)  |  [Codingame](https://www.codingame.com/profile/98c9da903a5b276d4cbc503fbe5680da6636135)
+</details>
+<details>
+   <summary><b>🪛 Stuff I use</b></summary>
+<br>
 
-
-## Stuff I use
-### Languages
-- Python
-- Shell
-- Powershell
-- C / C++
-- C#
-- Web - html, css, js, php, WAMP
-- Batch
-- lua
-- Solidity
-
-### OS
-- Windows
-- Debian
-- Alpine
-- Parrot
-
-### Frameworks
-- NodeJS
-- Django
-- VueJS
-- .NET
-
-### Toolbox
-- Visual Studio
-- VS Code
-- VirtualBox
-- Dockers
-- Figma
-- Visual paradigm
-- Notion
+| Languages   | OS      | Frameworks | Others          |
+| ----------- | ------- | ---------- | --------------- |
+| Python      | Windows | NodeJS     | Visual Studio   |
+| Shell       | Debian  | Django     | VS Code         |
+| Powershell  | Alpine  | VueJS      | VirtualBox      |
+| C / C++     | Parrot  | .NET       | Docker          |
+| C#          |         |            | Kubernetes      |
+| Web / WAMP  |         |            | Visual paradigm |
+| Batch       |         |            | Figma           |
+| lua         |         |            | Notion          |
+| Solidity    |         |            |                 |
+</details>
+</details>
