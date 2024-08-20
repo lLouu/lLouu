@@ -1,6 +1,6 @@
 Hi !
 
-I'm Guerric Le Bihan, a french student in computer science at EFREI PARIS, specialized in Cyber Security.
+I'm Guerric Le Bihan, a Cybersecurity Engineer that may like doin' some questionnably usefull projects<br>
 
 <details>
    <summary><b>↕️ Expand for more!</b></summary><br><br>
@@ -14,13 +14,10 @@ I'm Guerric Le Bihan, a french student in computer science at EFREI PARIS, speci
 | [PenEnv](https://github.com/lLouu/penenv) | 28 Jul. 2023  | V0.3.0  |
 
 ### Working on
-| Name                                    | Starting date | Deadline     | State          |
-| --------------------------------------- | ------------- | ------------ | -------------- |
-| BinEq                                   | 27 June 2022  | None         | WIP (private)  |
-| AManager                                | 14 Oct. 2022  | None         | WIP (private)  |
-| CManager                                | 14 Oct. 2022  | None         | WIP (private)  |
-| [MM Tool](https://github.com/lLouu/MMT) | 28 Mar. 2021  | None         | Pause          |
-| Latium Game Engine                      | None          | None         | Preparation    |
+| Name                                            | Starting date | Deadline     | State          |
+| ----------------------------------------------- | ------------- | ------------ | -------------- |
+| BinEq                                           | 27 June 2022  | None         | WIP (private)  |
+| [Portfolio](https://github.com/lLouu/portfolio) | 20 Aug. 2024  | None         | WIP            |
 
 ### Archived
 | Name                                                                            | Starting date | Version |
@@ -34,9 +31,10 @@ I'm Guerric Le Bihan, a french student in computer science at EFREI PARIS, speci
 
 </details>
 <details>
-   <summary><b>👤 Accounts here and there</b></summary>
+   <summary><b>👤 Links here and there</b></summary>
  
-[Linkdin](https://www.linkedin.com/in/guerric-le-bihan)  |  [HackTheBox](https://app.hackthebox.com/profile/1426168)  |  [Codingame](https://www.codingame.com/profile/98c9da903a5b276d4cbc503fbe5680da6636135)
+[Portfolio](https://www.guerriclebihan.com)  |  [Linkdin](https://www.linkedin.com/in/guerric-le-bihan)  |  [HackTheBox](https://app.hackthebox.com/profile/1426168)  |  [Codingame](https://www.codingame.com/profile/98c9da903a5b276d4cbc503fbe5680da6636135)<br>
+Contact me : contact@guerriclebihan.com
 </details>
 <details>
    <summary><b>🪛 Stuff I use</b></summary>
