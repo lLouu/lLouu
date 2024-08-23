@@ -9,15 +9,15 @@ I'm Guerric Le Bihan, a Cybersecurity Engineer that may like doin' some question
    <summary><b>💻 Code Projects</b></summary>
 
 ### Maintained
-| Name                                      | Starting date | Version |
-| ----------------------------------------- | ------------- | ------- |
-| [PenEnv](https://github.com/lLouu/penenv) | 28 Jul. 2023  | V0.3.0  |
+| Name                                            | Starting date | Version |
+| ----------------------------------------------- | ------------- | ------- |
+| [PenEnv](https://github.com/lLouu/penenv)       | 28 Jul. 2023  | V0.3.0  |
+| [Portfolio](https://github.com/lLouu/portfolio) | 20 Aug. 2024  | V1.0    |
 
 ### Working on
 | Name                                            | Starting date | Deadline     | State          |
 | ----------------------------------------------- | ------------- | ------------ | -------------- |
 | BinEq                                           | 27 June 2022  | None         | WIP (private)  |
-| [Portfolio](https://github.com/lLouu/portfolio) | 20 Aug. 2024  | None         | WIP            |
 
 ### Archived
 | Name                                                                            | Starting date | Version |
