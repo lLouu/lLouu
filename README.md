@@ -12,7 +12,7 @@ I'm Guerric Le Bihan, a Cybersecurity Engineer that may like doin' some question
 | Name                                            | Starting date | Version |
 | ----------------------------------------------- | ------------- | ------- |
 | [PenEnv](https://github.com/lLouu/penenv)       | 28 Jul. 2023  | V0.3.0  |
-| [Portfolio](https://github.com/lLouu/portfolio) | 20 Aug. 2024  | V1.0    |
+| [Portfolio](https://github.com/lLouu/portfolio) | 20 Aug. 2024  | V1.6    |
 
 ### Working on
 | Name                                            | Starting date | Deadline     | State          |
