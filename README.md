@@ -15,9 +15,10 @@ I'm Guerric Le Bihan, a Cybersecurity Engineer that may like doin' some question
 | [Portfolio](https://github.com/lLouu/portfolio) | 20 Aug. 2024  | V2.2    |
 
 ### Working on
-| Name                                            | Starting date | Deadline     | State          |
-| ----------------------------------------------- | ------------- | ------------ | -------------- |
-| BinEq                                           | 27 June 2022  | None         | WIP (private)  |
+| Name                                              | Starting date | Deadline     | State          |
+| ------------------------------------------------- | ------------- | ------------ | -------------- |
+| [Homeserver](https://github.com/llouu/homeserver) | 20 Sept 2025  | None         | V0.9           |
+| BinEq                                             | 27 June 2022  | None         | WIP (private)  |
 
 ### Archived
 | Name                                                                            | Starting date | Version |
